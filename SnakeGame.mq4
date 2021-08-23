@@ -24,7 +24,7 @@ int OnInit()
 //+------------------------------------------------------------------+
 void OnTimer()
 {
- Comment("START GAME!  TIMER: "+IntegerToString(counter));
+ Comment("START GAME!!!  TIMER: "+IntegerToString(counter));
  counter++; 
 }
 //+------------------------------------------------------------------+
